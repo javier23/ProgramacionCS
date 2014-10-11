@@ -15,7 +15,7 @@ public class ProgramacionFP {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ala que vay que vay");
+        System.out.println("ahora vay desde otroo lado");
     }
     
 }
